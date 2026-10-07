@@ -1,0 +1,155 @@
+{
+    "messenger_track_pack": {
+        "name": "The Messenger Randomizer Track Pack",
+        "author": "alwaysintreble",
+        "platform": "PC",
+        "homepage": "https://github.com/alwaysintreble/TheMessengerTrackPack",
+        "versions_url": "https://raw.githubusercontent.com/alwaysintreble/TheMessengerTrackPack/versions/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/alwaysintreble/TheMessengerTrackPack/master/TheMessengerTrackPack/images/SaveIcon.png",
+        "description":  "Map Tracker for The Messenger Randomizer."
+    },
+    "evermizer": {
+        "name": "Evermizer - Map and Item Tracker",
+        "author": "Cyb3R, black-sliver",
+        "platform": "snes",
+        "homepage": "https://github.com/Cyb3RGER/evermizer-tracker-package",
+        "versions_url": "https://raw.githubusercontent.com/Cyb3RGER/evermizer-tracker-package/main/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/Cyb3RGER/evermizer-tracker-package/main/images/locations/gourd.png",
+        "description":  "Evermizer Item and Map Tracker for PopTracker."
+    },
+    "bfbb_ap_pack": {
+        "name": "BfBB AP Tracker",
+        "author": "Cyb3R",
+        "platform": "ngc",
+        "homepage": "https://github.com/Cyb3RGER/bfbb_ap_pack",
+        "versions_url": "https://raw.githubusercontent.com/Cyb3RGER/bfbb_ap_pack/main/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/Cyb3RGER/bfbb_ap_pack/main/images/items/spat.png",
+        "description":  "PopTracker pack for BfBB Archipelago Integration."
+    },
+    "monster_sanctuary_ap": {
+        "name": "Monster Sanctuary AP",
+        "author": "Cyb3R",
+        "platform": "PC",
+        "homepage": "https://github.com/Cyb3RGER/monster_sanctuary_ap_pack",
+        "versions_url": "https://raw.githubusercontent.com/Cyb3RGER/monster_sanctuary_ap_pack/main/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/Cyb3RGER/monster_sanctuary_ap_pack/main/images/items/monsters/spectral_wolf.png",
+        "description":  "Monster Sanctuary AP PopTracker pack."
+    },
+    "minecraft_randomizer_emotracker-neomatamune": {
+        "name": "Minecraft Randomizer",
+        "author": "Neomatamune, Cyb3R, AkumaGath17#0725",
+        "platform": "PC",
+        "homepage": "https://github.com/Cyb3RGER/minecraft_rando_tracker",
+        "versions_url": "https://raw.githubusercontent.com/Cyb3RGER/minecraft_rando_tracker/master/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/Cyb3RGER/minecraft_rando_tracker/master/maps/Achievements/minecraft.png",
+        "description":  "PopTracker Pack for the Archipelago Minecraft Randomizer."
+    },
+    "smrando_ap_cyb3r": {
+        "name": "VARIA Randomizer (Super Metroid) AP",
+        "author": "Cyb3R",
+        "platform": "snes",
+        "homepage": "https://github.com/Cyb3RGER/sm_ap_tracker",
+        "versions_url": "https://raw.githubusercontent.com/Cyb3RGER/sm_ap_tracker/main/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/Cyb3RGER/sm_ap_tracker/main/images/items/morph.png",
+        "description":  "Archipelago Super Metroid autotracker pack for PopTracker."
+    },
+    "som_open_mode_map": {
+        "name": "Secret of Mana Randomizer - Open Mode - Map and Item Tracker",
+        "author": "Cyb3R",
+        "platform": "snes",
+        "homepage": "https://github.com/Cyb3RGER/SoM-Open-Mode-Tracker",
+        "versions_url": "https://raw.githubusercontent.com/Cyb3RGER/SoM-Open-Mode-Tracker/master/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/Cyb3RGER/SoM-Open-Mode-Tracker/master/images/chest.png",
+        "description":  "Secret of Mana Open Mode Package for PopTracker."
+    },
+    "popsnake": {
+        "name": "PopSnake - A Snake game for PopTracker",
+        "author": "Cyb3R",
+        "platform": "poptracker",
+        "homepage": "https://github.com/Cyb3RGER/popsnake_pack",
+        "versions_url": "https://raw.githubusercontent.com/Cyb3RGER/popsnake_pack/main/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/Cyb3RGER/popsnake_pack/main/images/icon.png",
+        "description":  "This is an implementation of the popular game \"Snake\" as a PopTracker pack that also doubles as a simple AP Hint Game."
+    },
+    "pokemonrb_ap": {
+        "name": "Pokemon Red/Blue Archipelago Poptracker",
+        "author": "palex00 & Coveleski",
+        "platform": "poptracker",
+        "homepage": "https://github.com/palex00/rb_tracker",
+        "versions_url": "https://raw.githubusercontent.com/palex00/rb_tracker/refs/heads/versions/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/palex00/rb_tracker/main/images/items/itemicon.png",
+        "description":  "Pokémon Red & Blue autotracker pack for PopTracker"
+    },
+    "ape_escape_tracker":{
+        "name" : "Ape Escape Tracker",
+        "author": "Lurch9229, Thedragon005",
+        "platform": "PS1",
+        "homepage": "https://github.com/lurch9229/Ape-Escape-Tracker",
+        "versions_url": "https://raw.githubusercontent.com/lurch9229/Ape-Escape-Tracker/versions/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/lurch9229/Ape-Escape-Tracker/refs/heads/main/images/icons/specterIcon.png",
+        "description":  "Ape Escape autotracker pack for PopTracker"
+    },
+    "albw-ap-poptracker": {
+        "name": "A Link Between Worlds Autotracker",
+        "author": "Legend, maintained by guigui0246",
+        "platform": "3DS",
+        "homepage": "https://github.com/guigui0246/albw-ap-poptracker/",
+        "versions_url": "https://raw.githubusercontent.com/guigui0246/albw-ap-poptracker/refs/heads/versions/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/Legendgreat/albw-ap-poptracker/main/images/items/maiamai.png",
+        "description": "This is a PopTracker pack meant for tracking items and checks in The Legend of Zelda: A Link Between Worlds Randomizer runs, with AP integration for auto-tracking."
+    },
+    "1f1dbd3f-bf6c-45a4-9ff7-f841a0b0ebe2": {
+        "name": "Lunacid AP - Map & Item Tracker",
+        "author": "ScorpioGameKing & Miracee",
+        "platform": "PC",
+        "homepage": "https://github.com/ScorpioGameKing/Lunacid-Poptracker",
+        "versions_url": "https://raw.githubusercontent.com/ScorpioGameKing/Lunacid-Poptracker/main/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/ScorpioGameKing/Lunacid-Poptracker/refs/heads/main/images/items/lock_ballroom.png",
+        "description":  "Archipelago Lunacid tracker pack for PopTracker."
+    },
+    "AP_Man_Powerwash_Jas": {
+        "name": "Powerwash Simulator Manual Tracker",
+        "author": "skipperki1",
+        "platform": "PC",
+        "homepage": "https://github.com/skipperki1/manual_powerwashsimulator_hallojasper_PopTracker",
+        "versions_url": "https://raw.githubusercontent.com/skipperki1/manual_powerwashsimulator_hallojasper_PopTracker/main/Manual%20Powerwash%20Simulator%20Poptracker/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/skipperki1/manual_powerwashsimulator_hallojasper_PopTracker/main/Manual%20Powerwash%20Simulator%20Poptracker/images/items/Trident.png",
+        "description":  "Archipelago Map/Item Tracker and Manual Client for Powerwash Simulator."
+    },
+    "ap_emerald": {
+        "name": "Pokémon Emerald AP Tracker",
+        "author": "Seto10987 & palex00 & Vyneras",
+        "platform": "gba",
+        "homepage": "https://github.com/seto10987/Archipelago-Emerald-AP-Tracker",
+        "versions_url": "https://raw.githubusercontent.com/seto10987/archipelago-emerald-ap-tracker/versions/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/seto10987/archipelago-emerald-ap-tracker/main/images/preview.png",
+        "description":  "Pokémon Emerald autotracker pack for PopTracker"
+    },
+    "seasons_ap": {
+        "name": "Oracle of Seasons Tracker",
+        "author": "OmegaZeron",
+        "platform": "gbc",
+        "homepage": "https://github.com/OmegaZeron/Oracle-of-Seasons-AP-Poptracker-Pack",
+        "versions_url": "https://raw.githubusercontent.com/OmegaZeron/Oracle-of-Seasons-AP-Poptracker-Pack/versions/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/OmegaZeron/Oracle-of-Seasons-AP-Poptracker-Pack/main/images/items/rod.png",
+        "description": "The Legend of Zelda: Oracle of Seasons Archipelago PopTracker pack"
+    },
+    "satisfactory_ap": {
+        "name": "Satisfactory PopTracker",
+        "author": "Snileaf, builder_script, Satisfactory Archipelago Community, PopTracker Discord Server Community",
+        "platform": "PC",
+        "homepage": "https://github.com/snileaf/Satisfactory-poptracker",
+        "versions_url": "https://raw.githubusercontent.com/snileaf/Satisfactory-poptracker/versions/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/snileaf/Satisfactory-poptracker/versions/satisfactory-S.png",
+        "description":  "The Satisfactory Archipelago PopTracker Pack."
+    },
+    "cloverpit_ap": {
+        "name": "CloverPit Archipelago",
+        "author": "Snileaf, builder_script, PopTracker Discord Server Community",
+        "platform": "PC",
+        "homepage": "https://github.com/snileaf/CloverPit-poptracker",
+        "versions_url": "https://raw.githubusercontent.com/snileaf/CloverPit-poptracker/versions/versions.json",
+        "icon_url": "https://raw.githubusercontent.com/snileaf/CloverPit-poptracker/versions/CloverPit.png",
+        "description":  "The CloverPit Archipelago PopTracker Pack."
+    }
+}

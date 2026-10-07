@@ -1,0 +1,10 @@
+# venv
+/.venv*/
+/venv*/
+
+# IDE files
+/.idea/
+/.vs
+# Temp files
+*~
+__pycache__

@@ -13,3 +13,7 @@ make sure to verify the following:
   download (highest version number) in the linked versions json (`versions_url`).
 * The proposed changes result in a valid JSON file (no extra or missing `,`).
 * You are the author of the pack or have permission to add the pack.
+
+* Due to an ACE security issue (arbitrary code execution) found in Git on November 10, 2026, tracked as CVE-2026-111760, all
+  submitted pack releases cannot contain a .git folder. Click [here](https://github.com/git/git/security/advisories/GHSA-vp2w-7xxj-jvxr)
+  to learn more about this issue and why this rule was added.

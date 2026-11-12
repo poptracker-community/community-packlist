@@ -15,5 +15,9 @@ make sure to verify the following:
 * You are the author of the pack or have permission to add the pack.
 
 * Due to an ACE security issue (arbitrary code execution) found in Git on November 10, 2026, tracked as CVE-2026-111760, all
-  submitted pack releases cannot contain a .git folder. Click [here](https://github.com/git/git/security/advisories/GHSA-vp2w-7xxj-jvxr)
+  submitted pack releases cannot contain a `.git` folder. Click [here](https://github.com/git/git/security/advisories/GHSA-vp2w-7xxj-jvxr)
   to learn more about this issue and why this rule was added.
+  
+  If a later release is found/reported to have a `.git` folder, your pack will be removed from the list until you are compliant
+  with our rule. If this rule is continuously ignored, you may be blacklisted from the community packlist entirely, including
+  any future packs you may make.
